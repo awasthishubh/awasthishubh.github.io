@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://shubham.awasthi.dev/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/resources/Shubham_SDE_resume.pdf</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/projects</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/experience/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/extracurricular/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/achievements/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/education/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/coding-profile/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/contact/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/me/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/skills/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/open-source-profile/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://shubham.awasthi.dev/?/certificates/</loc>
+	<lastmod>2020-12-28T22:56:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
