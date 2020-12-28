@@ -1,0 +1,21 @@
+{
+  "short_name": "Shubham | Portfolio",
+  "name": "Shubham Awasthi | Portfolio",
+  "icons": [
+    {
+      "src": "logo/logo64.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A3BFFA",
+  "background_color": "#ffffff"
+}
