@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.311044ed.chunk.css",
-    "main.js": "/static/js/main.257d532d.chunk.js",
-    "main.js.map": "/static/js/main.257d532d.chunk.js.map",
+    "main.js": "/static/js/main.5c7bc1f6.chunk.js",
+    "main.js.map": "/static/js/main.5c7bc1f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.56f7c896.js",
     "runtime-main.js.map": "/static/js/runtime-main.56f7c896.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/static/css/2.2aa38b9c.chunk.css",
@@ -15,39 +15,13 @@
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.2aa38b9c.chunk.css.map": "/static/css/2.2aa38b9c.chunk.css.map",
     "static/css/main.311044ed.chunk.css.map": "/static/css/main.311044ed.chunk.css.map",
-    "static/js/2.e90682e6.chunk.js.LICENSE.txt": "/static/js/2.e90682e6.chunk.js.LICENSE.txt",
-    "static/media/JPMorgan.9487fb5e.jpeg": "/static/media/JPMorgan.9487fb5e.jpeg",
-    "static/media/acmvit.6870c3f3.png": "/static/media/acmvit.6870c3f3.png",
-    "static/media/bcm.8a656b82.png": "/static/media/bcm.8a656b82.png",
-    "static/media/bechangemaker.40d846df.png": "/static/media/bechangemaker.40d846df.png",
-    "static/media/c2c.c3cc4031.jpg": "/static/media/c2c.c3cc4031.jpg",
-    "static/media/cc_logo.06d7c8f7.png": "/static/media/cc_logo.06d7c8f7.png",
-    "static/media/codart.c4e9584c.jpg": "/static/media/codart.c4e9584c.jpg",
-    "static/media/cr_dbms.fcc553d5.jpg": "/static/media/cr_dbms.fcc553d5.jpg",
-    "static/media/cr_hadoop.c1b6215d.jpg": "/static/media/cr_hadoop.c1b6215d.jpg",
-    "static/media/cr_node.2dcf298c.jpg": "/static/media/cr_node.2dcf298c.jpg",
-    "static/media/cr_ps.3ca25849.jpg": "/static/media/cr_ps.3ca25849.jpg",
-    "static/media/cyd.5cb93033.jpg": "/static/media/cyd.5cb93033.jpg",
-    "static/media/dp.05071430.svg": "/static/media/dp.05071430.svg",
-    "static/media/dp.65c32b83.png": "/static/media/dp.65c32b83.png",
-    "static/media/hr_logo.83c623fe.png": "/static/media/hr_logo.83c623fe.png",
-    "static/media/infytq.b00e20dd.jpg": "/static/media/infytq.b00e20dd.jpg",
-    "static/media/lbh.4feaf708.jpeg": "/static/media/lbh.4feaf708.jpeg",
-    "static/media/lc_logo.b8057d09.png": "/static/media/lc_logo.b8057d09.png",
-    "static/media/pyflask.56b707d6.jpg": "/static/media/pyflask.56b707d6.jpg",
-    "static/media/rc.06ff34c1.jpeg": "/static/media/rc.06ff34c1.jpeg",
-    "static/media/rlb.4e431579.png": "/static/media/rlb.4e431579.png",
-    "static/media/vit.6b9ad280.jpg": "/static/media/vit.6b9ad280.jpg",
-    "static/media/vit_hack.0659dc97.jpg": "/static/media/vit_hack.0659dc97.jpg",
-    "static/media/weekendlabs.4a10572a.jpeg": "/static/media/weekendlabs.4a10572a.jpeg",
-    "static/media/zeit.b32ad470.jpg": "/static/media/zeit.b32ad470.jpg",
-    "static/media/zulip.913891a3.png": "/static/media/zulip.913891a3.png"
+    "static/js/2.e90682e6.chunk.js.LICENSE.txt": "/static/js/2.e90682e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.56f7c896.js",
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.e90682e6.chunk.js",
     "static/css/main.311044ed.chunk.css",
-    "static/js/main.257d532d.chunk.js"
+    "static/js/main.5c7bc1f6.chunk.js"
   ]
 }
